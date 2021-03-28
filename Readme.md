@@ -1,10 +1,6 @@
 
 # ML Homework 1 Perceptron
 
-系級: 資工四
-姓名: 方琬淳
-學號: 406410039
-
 ### 題目
 ![題目](https://i.imgur.com/1tyoThM.png)
 
