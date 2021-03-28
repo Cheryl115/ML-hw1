@@ -1,6 +1,3 @@
----
-tags: 機器學習
----
 
 # ML Homework 1 Perceptron
 
